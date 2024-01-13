@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'angularspringbootintegrationrestapimicroservices';
+  title = 'SPRING BOOT(MICROSERVICES REST API) FRAMEWORK + HIBERNATE(MYSQL)+ANGULAR FRAMEWORK';
 }
